@@ -43,6 +43,8 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA. E-mail Ad
 
 1. **Planning chemical syntheses with deep neural networks and symbolic AI.** *Marwin H. S. Segler, et al.* **Nature**, 2018. [paper](https://www.nature.com/articles/nature25978)
 
+1. **Equivalent-accuracy accelerated neural-network training using analogue memory.** *Stefano Ambrogio, et al.* **Nature**, 2018. [paper](https://www.nature.com/articles/s41586-018-0180-5)
+
 1. **Image reconstruction by domain-transform manifold learning.** *Bo Zhu, et al.* **Nature**, 2018. [paper](https://www.nature.com/articles/nature25988)
 
 1. **Fast automated analysis of strong gravitational lenses with convolutional neural networks.** *Yashar D. Hezaveh, et al.* **Nature**, 2017. [paper](https://www.nature.com/articles/nature23463)
@@ -54,6 +56,10 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA. E-mail Ad
 1. **Mastering the game of Go with deep neural networks and tree search.** *David Silver, et al.* **Nature**, 2016. [paper](https://www.nature.com/articles/nature16961)
 
 1. **Human-level control through deep reinforcement learning.** *Volodymyr Mnih, et al.* **Nature**, 2015. [paper](https://www.nature.com/articles/nature14236)
+
+
+
+
 
 
 
