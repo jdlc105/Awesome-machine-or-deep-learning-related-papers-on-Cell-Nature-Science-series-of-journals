@@ -48,6 +48,8 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA. E-mail Ad
 
 1. **One neuron versus deep learning in aftershock prediction.** *Arnaud Mignan, et al.* **Nature**, 2019. [paper](https://www.nature.com/articles/s41586-019-1582-8)
 
+1. **Unsupervised word embeddings capture latent knowledge from materials science literature.** *Tshitoyan V, et al.* **Nature**, 2019. [paper](https://www_nature.xilesou.top/articles/s41586-019-1335-8)
+
 1. **Deep learning for multi-year ENSO forecasts.** *Yoo-Geun Ham, et al.* **Nature**, 2019. [paper](https://www.nature.com/articles/s41586-019-1559-7)
 
 1. **Learning the signatures of the human grasp using a scalable tactile glove.** *Subramanian Sundaram, et al.* **Nature**, 2019. [paper](https://www.nature.com/articles/s41586-019-1234-z)
