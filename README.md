@@ -22,6 +22,13 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA. E-mail Ad
 
 1. **Holography in artificial neural networks.** *Demetri Psaltis, et al.* **Nature**, 1990. [paper](https://www.nature.com/articles/343325a0)
 
+1. **Machine learning for data-driven discovery in solid Earth geoscience.** *Karianne J. Bergen, et al.* **Science**, 2019. [paper](https://science.sciencemag.org/content/363/6433/eaau0323)
+
+1. **Inverse molecular design using machine learning: Generative models for matter engineering.** *Benjamin Sanchez-Lengeling, et al.* **Science**, 2018. [paper](https://science.sciencemag.org/content/361/6400/360)
+
+1. **Machine learning: Trends, perspectives, and prospects.** *M. I. Jordan, T. M. Mitchell* **Science**, 2015. [paper](https://science.sciencemag.org/content/349/6245/255)
+
+
 ### Research Papers on Cell Journal
 
 1. **A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation.** *Nicholas Bogard, et al.* **Cell**, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0092867419304982)
@@ -78,6 +85,25 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA. E-mail Ad
 1. **Self-organizing neural network that discovers surfaces in random-dot stereograms.** *Suzanna Becker & Geoffrey E. Hinton.* **Nature**, 1992. [paper](https://www.nature.com/articles/355161a0)
 
 1. **Function of identified interneurons in the leech elucidated using neural networks trained by back-propagation.** *Shawn R. Lockery, et al.* **Nature**, 1989. [paper](https://www.nature.com/articles/340468a0)
+
+### Research Papers on Science Journal
+
+1. **Boltzmann generators: Sampling equilibrium states of many-body systems with deep learning.** *Frank Noé, et al.* **Science**, 2019. [paper](https://science.sciencemag.org/content/365/6457/eaaw1147)
+
+1. **Prediction of higher-selectivity catalysts by computer-driven workflow and machine learning.** *Andrew F. Zahrt, et al.* **Science**, 2019. [paper](https://science.sciencemag.org/content/363/6424/eaau5631)
+
+1. **Combining satellite imagery and machine learning to predict poverty.** *Neal Jean, et al.* **Science**, 2016. [paper](https://science.sciencemag.org/content/353/6301/790)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
