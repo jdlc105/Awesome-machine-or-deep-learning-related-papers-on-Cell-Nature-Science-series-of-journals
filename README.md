@@ -6,17 +6,20 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA. E-mail Ad
 ### Review Papers
 
 
+1. **Deep learning for cellular image analysis.** *Erick Moen, et al.* **Nature Methods**, 2019. [paper](https://www.nature.com/articles/s41592-019-0403-1)
+
+1. **Quantum machine learning.** *Jacob Biamonte, et al.* **Nature**, 2017. [paper](https://www.nature.com/articles/nature23474)
+
 1. **Deep learning.** *Yann LeCun, Yoshua Bengio & Geoffrey Hinton.* **Nature**, 2015. [paper](https://www.nature.com/articles/nature14539)
 
 1. **Reinforcement learning improves behaviour from evaluative feedback.** *Michael L. Littman.* **Nature**, 2015. [paper](https://www.nature.com/articles/nature14540)
 
 1. **Probabilistic machine learning and artificial intelligence.** *Zoubin Ghahramani.* **Nature**, 2015. [paper](https://www.nature.com/articles/nature14541)
 
-1. **Quantum machine learning.** *Jacob Biamonte, et al.* **Nature**, 2017. [paper](https://www.nature.com/articles/nature23474)
+1. **Neural networks and perceptual learning.** *Misha Tsodyks & Charles Gilbert* **Nature**, 2004. [paper](https://www.nature.com/articles/nature03013)
 
-1. **A deep learning framework for neuroscience.** *Blake A. Richards, et al.* **Nature neuroscience**, 2019. [paper](https://www.nature.com/articles/s41593-019-0520-2)
+1. **Holography in artificial neural networks.** *Demetri Psaltis, et al.* **Nature**, 1990. [paper](https://www.nature.com/articles/343325a0)
 
-1. **Deep learning for cellular image analysis.** *Erick Moen, et al.* **Nature Methods**, 2019. [paper](https://www.nature.com/articles/s41592-019-0403-1)
 
 
 ### Research Papers
@@ -56,6 +59,17 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA. E-mail Ad
 1. **Mastering the game of Go with deep neural networks and tree search.** *David Silver, et al.* **Nature**, 2016. [paper](https://www.nature.com/articles/nature16961)
 
 1. **Human-level control through deep reinforcement learning.** *Volodymyr Mnih, et al.* **Nature**, 2015. [paper](https://www.nature.com/articles/nature14236)
+
+1. **Neural constraints on learning.** *Patrick T. Sadtler, et al.* **Nature**, 2014. [paper](https://www.nature.com/articles/nature13665)
+
+1. **Self-organizing neural network that discovers surfaces in random-dot stereograms.** *Suzanna Becker & Geoffrey E. Hinton.* **Nature**, 1992. [paper](https://www.nature.com/articles/355161a0)
+
+1. **Function of identified interneurons in the leech elucidated using neural networks trained by back-propagation.** *Shawn R. Lockery, et al.* **Nature**, 1989. [paper](https://www.nature.com/articles/340468a0)
+
+
+
+
+
 
 
 
