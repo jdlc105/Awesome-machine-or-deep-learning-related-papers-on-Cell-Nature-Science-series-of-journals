@@ -6,6 +6,8 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA. E-mail Ad
 ### Review Papers
 
 
+1. **Next-Generation Machine Learning for Biological Networks.** *Diogo M. Camacho, et al.* **Cell**, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0092867418305920)
+
 1. **Deep learning for cellular image analysis.** *Erick Moen, et al.* **Nature Methods**, 2019. [paper](https://www.nature.com/articles/s41592-019-0403-1)
 
 1. **Quantum machine learning.** *Jacob Biamonte, et al.* **Nature**, 2017. [paper](https://www.nature.com/articles/nature23474)
@@ -20,9 +22,20 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA. E-mail Ad
 
 1. **Holography in artificial neural networks.** *Demetri Psaltis, et al.* **Nature**, 1990. [paper](https://www.nature.com/articles/343325a0)
 
+### Research Papers on Cell Journal
+
+1. **A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation.** *Nicholas Bogard, et al.* **Cell**, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0092867419304982)
+
+1. **Predicting Splicing from Primary Sequence with Deep Learning.** *Kishore Jaganathan, et al.* **Cell**, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0092867418316295)
+
+1. **A White-Box Machine Learning Approach for Revealing Antibiotic Mechanisms of Action.** *Jason H. Yang, et al.* **Cell**, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0092867419304027)
+
+1. **Evolving Images for Visual Neurons Using a Deep Generative Network Reveals Coding Principles and Neuronal Preferences.** *Carlos R. Ponce, et al.* **Cell**, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0092867419303915)
+
+1. **Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning.** *Daniel S. Kermany, et al.* **Cell**, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S0092867418301545)
 
 
-### Research Papers
+### Research Papers on Nature Journal
 
 1. **Grandmaster level in StarCraft II using multi-agent reinforcement learning.** *Oriol Vinyals, et al.* **Nature**, 2019. [paper](https://www.nature.com/articles/s41586-019-1724-z)
 
