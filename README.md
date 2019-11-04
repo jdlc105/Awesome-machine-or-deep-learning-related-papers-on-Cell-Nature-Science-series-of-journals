@@ -2,7 +2,7 @@
 
 Artificial intelligence is a strategic technology that leads a new round of technological revolution and industrial transformation. Machine learning technology represented by deep learning is the core of artificial intelligence, which has achieved great success in many fields. There is no doubt that Cell-Nature-Science-series-of-journals are recognized as the top three journals in the world. To a great extent, they guide the future development trend. In view of this, this project focuses on machine learning or deep learning related papers on Cell-Nature-Science-series-of-journals, lists relevant must-read papers and keeps track of progress. We look forward to promoting this direction and providing some help to researchers in this direction.
 
-Contributed by Allen Bluce (Bentian Li at NUAA) and Yunxia Lin at NUAA. If there is something wrong or GNN-related issue, welcome to send E-mail Address: jdlc105@qq.com, lbtjackbluce@gmail.com.
+Contributed by Allen Bluce (Bentian Li at NUAA) and Yunxia Lin at NUAA. If there are some questions, welcome to send E-mail Address: jdlc105@qq.com, lbtjackbluce@gmail.com.
 
 
 ### Review Papers
