@@ -2,11 +2,14 @@
 
 Artificial intelligence is a strategic technology that leads a new round of technological revolution and industrial transformation. Machine learning technology represented by deep learning is the core of artificial intelligence, which has achieved great success in many fields. There is no doubt that Cell-Nature-Science-series-of-journals are recognized as the top three journals in the world. To a great extent, they guide the future development trend. In view of this, this project focuses on machine learning or deep learning related papers on Cell-Nature-Science-series-of-journals, lists relevant must-read papers and keeps track of progress. We look forward to promoting this direction and providing some help to researchers in this direction.
 
-Contributed by Allen Bluce (Bentian Li at NUAA) and Yunxia Lin at NUAA. If there are some questions, welcome to send E-mail (jdlc105@qq.com, lbtjackbluce@gmail.com)
+Contributed by Allen Bluce. If there are some questions, welcome to send E-mail (jdlc105@qq.com, lbtjackbluce@gmail.com)
+
+**This is just the tip of the iceberg!!!** So many papers published on Cell-Nature-Science-series-of-journals such as Nature communications, Science advances. 
 
 
 ### Review Papers
 
+1. **Crystal symmetry determination in electron diffraction using machine learning.** *Kevin Kaufmann, et al.* **Science**, 2020. [paper](https://science.sciencemag.org/content/367/6477/564)
 
 1. **Next-Generation Machine Learning for Biological Networks.** *Diogo M. Camacho, et al.* **Cell**, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0092867418305920)
 
@@ -33,6 +36,11 @@ Contributed by Allen Bluce (Bentian Li at NUAA) and Yunxia Lin at NUAA. If there
 
 ### Research Papers on Cell Journal
 
+1. **How Machine Learning Will Transform Biomedicine.** *Goecks, Jeremy, et al.* **Cell**, 2020. [paper](https://www-sciencedirect-com.ermg.femh.org.tw:8443/science/article/abs/pii/S0092867420302841)
+
+1. **A Deep Learning Approach to Antibiotic Discovery.** *Stokes, JM, et al.* **Cell**, 2020. [paper](https://www.cell.com/cell/pdf/S0092-8674(20)30102-1.pdf)
+1. **Deep Learning Reveals Cancer Metastasis and Therapeutic Antibody Targeting in the Entire Body.** *Pan, CC, et al.* **Cell**, 2019. [paper](https://www.biorxiv.org/content/biorxiv/early/2019/02/05/541862.full.pdf)
+
 1. **A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation.** *Nicholas Bogard, et al.* **Cell**, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0092867419304982)
 
 1. **Predicting Splicing from Primary Sequence with Deep Learning.** *Kishore Jaganathan, et al.* **Cell**, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0092867418316295)
@@ -45,6 +53,12 @@ Contributed by Allen Bluce (Bentian Li at NUAA) and Yunxia Lin at NUAA. If there
 
 
 ### Research Papers on Nature Journal
+
+1. **Fully hardware-implemented memristor convolutional neural network.** *Peng Yao, et al.* **Nature**, 2020. [paper](https://nature.m7h.net/articles/s41586-020-1942-4)
+
+1. **Closed-loop optimization of fast-charging protocols for batteries with machine learning.** *Peter M. Attia, et al.* **Nature**, 2020. [paper](https://nature.m7h.net/articles/s41586-020-1994-5)
+
+1. **Improved protein structure prediction using potentials from deep learning.** *Andrew W. Senior, et al.* **Nature**, 2020. [paper](https://nature.m7h.net/articles/s41586-019-1923-7)
 
 1. **Grandmaster level in StarCraft II using multi-agent reinforcement learning.** *Oriol Vinyals, et al.* **Nature**, 2019. [paper](https://www.nature.com/articles/s41586-019-1724-z)
 
