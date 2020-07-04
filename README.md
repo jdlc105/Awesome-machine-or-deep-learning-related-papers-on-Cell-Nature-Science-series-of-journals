@@ -4,7 +4,7 @@ Artificial intelligence is a strategic technology that leads a new round of tech
 
 Contributed by Allen Bluce. If there are some questions, welcome to send E-mail (jdlc105@qq.com, lbtjackbluce@gmail.com)
 
-**This is just the tip of the iceberg!!!** So many papers published on Cell-Nature-Science-series-of-journals such as Nature communications, Science advances. 
+**This is just the tip of the iceberg!!!** So many papers have published on Cell-Nature-Science-series-of-journals such as Nature communications, Science advances. 
 
 
 ### Review Papers
