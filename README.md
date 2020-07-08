@@ -39,6 +39,7 @@ Contributed by Allen Bluce. If there are some questions, welcome to send E-mail 
 1. **How Machine Learning Will Transform Biomedicine.** *Goecks, Jeremy, et al.* **Cell**, 2020. [paper](https://www-sciencedirect-com.ermg.femh.org.tw:8443/science/article/abs/pii/S0092867420302841)
 
 1. **A Deep Learning Approach to Antibiotic Discovery.** *Stokes, JM, et al.* **Cell**, 2020. [paper](https://www.cell.com/cell/pdf/S0092-8674(20)30102-1.pdf)
+
 1. **Deep Learning Reveals Cancer Metastasis and Therapeutic Antibody Targeting in the Entire Body.** *Pan, CC, et al.* **Cell**, 2019. [paper](https://www.biorxiv.org/content/biorxiv/early/2019/02/05/541862.full.pdf)
 
 1. **A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation.** *Nicholas Bogard, et al.* **Cell**, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0092867419304982)
@@ -55,6 +56,8 @@ Contributed by Allen Bluce. If there are some questions, welcome to send E-mail 
 ### Research Papers on Nature Journal
 
 1. **Fully hardware-implemented memristor convolutional neural network.** *Peng Yao, et al.* **Nature**, 2020. [paper](https://nature.m7h.net/articles/s41586-020-1942-4)
+
+1. **A distributional code for value in dopamine-based reinforcement learning.** *Dabney, Will, et al.* **Nature**, 2020. [paper](https://www.nature.com/articles/s41586-019-1924-6)
 
 1. **Closed-loop optimization of fast-charging protocols for batteries with machine learning.** *Peter M. Attia, et al.* **Nature**, 2020. [paper](https://nature.m7h.net/articles/s41586-020-1994-5)
 
@@ -109,6 +112,10 @@ Contributed by Allen Bluce. If there are some questions, welcome to send E-mail 
 1. **Boltzmann generators: Sampling equilibrium states of many-body systems with deep learning.** *Frank Noé, et al.* **Science**, 2019. [paper](https://science.sciencemag.org/content/365/6457/eaaw1147)
 
 1. **Prediction of higher-selectivity catalysts by computer-driven workflow and machine learning.** *Andrew F. Zahrt, et al.* **Science**, 2019. [paper](https://science.sciencemag.org/content/363/6424/eaau5631)
+
+1. **Human-level performance in 3D multiplayer games with population-based reinforcement learning.** *Jaderberg, Max, et al.* **Science**, 2019. [paper](https://science.sciencemag.org/content/364/6443/859.full)
+
+1. **A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play.** * Silver, David, et al.* **Science**, 2018. [paper](https://science.sciencemag.org/content/362/6419/1140)
 
 1. **Combining satellite imagery and machine learning to predict poverty.** *Neal Jean, et al.* **Science**, 2016. [paper](https://science.sciencemag.org/content/353/6301/790)
 
